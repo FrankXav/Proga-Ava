@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Unidad01" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Fraccion">
+				<Option output="bin/Fraccion/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Fraccion/" />
+				<Option object_output="obj/Fraccion/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Fracciones">
+				<Option output="bin/Fracciones/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Fracciones/" />
+				<Option object_output="obj/Fracciones/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="fraccion">
+				<Option output="bin/fraccion/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/fraccion/" />
+				<Option object_output="obj/fraccion/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Metodos">
+				<Option output="bin/Metodos/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Metodos/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_Image" />
+					<Add directory="SDL2-2.0.16/include" />
+					<Add directory="SDL2_image-2.0.5/include" />
+					<Add directory="SDL2-2.0.16/lib/x64" />
+					<Add directory="SDL2_image-2.0.5/lib/x64" />
+				</Linker>
+			</Target>
+			<Target title="03_class_Fraccion">
+				<Option output="bin/03_class_Fraccion/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/03_class_Fraccion/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="SDL2_image-2.0.5/include" />
+					<Add directory="SDL2-2.0.16/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_Image" />
+					<Add directory="SDL2_image-2.0.5/include" />
+					<Add directory="SDL2_image-2.0.5/lib/x64" />
+					<Add directory="SDL2-2.0.16/include" />
+					<Add directory="SDL2-2.0.16/lib/x64" />
+				</Linker>
+			</Target>
+			<Target title="04_Suma_DFracciones">
+				<Option output="bin/04_Suma_DFracciones/Unidad01" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/04_Suma_DFracciones/" />
+				<Option object_output="obj/04_Suma_DFracciones/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="incluir" />
+			<Add directory="SDL2-2.0.16/include" />
+			<Add directory="SDL2_image-2.0.5" />
+		</Compiler>
+		<Unit filename="02_metodos/TestMetodos.cpp">
+			<Option target="Fraccion" />
+			<Option target="Fracciones" />
+			<Option target="fraccion" />
+			<Option target="Release" />
+		</Unit>
+		<Unit filename="03_class_Fraccion/EquivDFraciones.cpp">
+			<Option target="03_class_Fraccion" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="03_class_Fraccion/TestEquivDFracciones.cpp">
+			<Option target="03_class_Fraccion" />
+		</Unit>
+		<Unit filename="03_class_Fraccion/dispgiffiles.cpp">
+			<Option target="Fraccion" />
+			<Option target="Fracciones" />
+			<Option target="fraccion" />
+			<Option target="Metodos" />
+			<Option target="03_class_Fraccion" />
+		</Unit>
+		<Unit filename="03_class_Fraccion/mcd.cpp">
+			<Option target="03_class_Fraccion" />
+			<Option target="Release" />
+			<Option target="Metodos" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="03_class_Fraccion/usemimetex.cpp">
+			<Option target="Fraccion" />
+			<Option target="Fracciones" />
+			<Option target="fraccion" />
+			<Option target="Metodos" />
+			<Option target="03_class_Fraccion" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="04_Suma_DFracciones/SumaDFracciones.cpp">
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="04_Suma_DFracciones/TestSumaDFracciones.cpp">
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="Fraccion.cpp" />
+		<Unit filename="incluir/Fraccion.h">
+			<Option target="Fraccion" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="incluir/Fraccion1.h">
+			<Option target="Fraccion" />
+			<Option target="Metodos" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="incluir/class/EquivDFraciones.h">
+			<Option target="03_class_Fraccion" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="incluir/class/Fraccion.h">
+			<Option target="03_class_Fraccion" />
+			<Option target="Release" />
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="incluir/class/Suma_DFracciones.h">
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="incluir/common.h">
+			<Option target="04_Suma_DFracciones" />
+		</Unit>
+		<Unit filename="testfraccion.cpp">
+			<Option target="Fraccion" />
+			<Option target="Fracciones" />
+			<Option target="fraccion" />
+			<Option target="Metodos" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
