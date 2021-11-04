@@ -49,8 +49,11 @@ unsigned int Fraccion::MCD(int NUM,int DEN){
 
 void Fraccion::simplificar(){
  unsigned int mcd = MCD(N,D);
+ N=abs(n);
+ D=abs(d);
  N /= mcd; /**  N = N / mcd */
  D /= mcd; /**  D = D / mcd */
+
 }
 
 #if 1 //2021.10.05

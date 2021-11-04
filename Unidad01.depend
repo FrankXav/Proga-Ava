@@ -29,11 +29,11 @@
 1631658340 source:c:\users\paco2\onedrive\documentos\upiita\3semestre\programacion avanzada\proyecto1\fraccion.cpp
 	<Fraccion1.h>
 
-1634852573 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\fraccion.cpp
+1636064467 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\fraccion.cpp
 	<Fraccion.h>
 	<class/Fraccion.h>
 
-1634680676 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion1.h
+1634677076 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion1.h
 	<iostream>
 	<cmath>
 
@@ -43,17 +43,17 @@
 	<Fraccion.h>
 	<class/Fraccion.h>
 
-1634855637 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
+1634852037 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
 	<iostream>
 
-1631657176 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion.h
+1631653576 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion.h
 
-1633641912 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\usemimetex.cpp
+1633638312 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\usemimetex.cpp
 	<iostream>
 	<windows.h>
 	<stdio.h>
 
-1633644189 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\dispgiffiles.cpp
+1633640589 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\dispgiffiles.cpp
 	<iostream>
 	<stdio.h>
 	<SDL_image.h>
@@ -65,7 +65,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_assert.h"
@@ -101,12 +101,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_main.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_stdinc.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -135,20 +135,20 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_config.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_config.h
 	"SDL_platform.h"
 	<sdkddkver.h>
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_platform.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_platform.h
 	"AvailabilityMacros.h"
 	"TargetConditionals.h"
 	<winapifamily.h>
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\begin_code.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\begin_code.h
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\close_code.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\close_code.h
 
 1627397549 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_config_windows.h
 	"SDL_platform.h"
@@ -178,13 +178,13 @@
 1627397549 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_config_minimal.h
 	"SDL_platform.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_assert.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_assert.h
 	"SDL_config.h"
 	"begin_code.h"
 	<signal.h>
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_atomic.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_atomic.h
 	"SDL_stdinc.h"
 	"SDL_platform.h"
 	"begin_code.h"
@@ -192,7 +192,7 @@
 	<mbarrier.h>
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_audio.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -202,12 +202,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_error.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_endian.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_endian.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<endian.h>
@@ -216,13 +216,13 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_mutex.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_thread.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_atomic.h"
@@ -233,18 +233,18 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_rwops.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_clipboard.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_clipboard.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_cpuinfo.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	<intrin.h>
 	<intrin.h>
@@ -264,7 +264,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_events.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -278,7 +278,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_video.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -286,13 +286,13 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_pixels.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_pixels.h
 	"SDL_stdinc.h"
 	"SDL_endian.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_rect.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_rect.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_pixels.h"
@@ -300,7 +300,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_surface.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_surface.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -309,11 +309,11 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_blendmode.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_blendmode.h
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_keyboard.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keycode.h"
@@ -321,27 +321,27 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_keycode.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_keycode.h
 	"SDL_stdinc.h"
 	"SDL_scancode.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_scancode.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_scancode.h
 	"SDL_stdinc.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_mouse.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_joystick.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_gamecontroller.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_gamecontroller.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
@@ -350,17 +350,17 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_sensor.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_sensor.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_quit.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_gesture.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_gesture.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
@@ -368,65 +368,65 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_touch.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_touch.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_filesystem.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_filesystem.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_haptic.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_haptic.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_joystick.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_hints.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_hints.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_loadso.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_log.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_log.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_messagebox.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_messagebox.h
 	"SDL_stdinc.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_metal.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_metal.h
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_power.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_power.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_render.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_render.h
 	"SDL_stdinc.h"
 	"SDL_rect.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_shape.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_shape.h
 	"SDL_stdinc.h"
 	"SDL_pixels.h"
 	"SDL_rect.h"
@@ -435,7 +435,7 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_system.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_system.h
 	"SDL_stdinc.h"
 	"SDL_keyboard.h"
 	"SDL_render.h"
@@ -443,39 +443,39 @@
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_timer.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_timer.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_version.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_locale.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_locale.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1628610880 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_misc.h
+1628607280 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2-2.0.16\include\sdl_misc.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1561870399 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2_image-2.0.5\include\sdl_image.h
+1561866799 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\sdl2_image-2.0.5\include\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1634680507 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\testfraccion.cpp
+1634676907 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\testfraccion.cpp
 	<iostream>
 	<Fraccion1.h>
 
-1634250001 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\mcd.cpp
+1634246401 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\mcd.cpp
 	<cmath>
 	<class/Fraccion.h>
 
@@ -485,22 +485,29 @@
 	<class/Fraccion.h>
 	<class/EquivDFraciones.h>
 
-1634701418 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\equivdfraciones.h
+1634697818 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\equivdfraciones.h
 	<iostream>
 	<vector>
 
-1634701418 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\equivdfraciones.cpp
+1634697818 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\equivdfraciones.cpp
 	<cmath>
 	<class/Fraccion.h>
 	<class/EquivDFraciones.h>
 
-1635284683 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\04_suma_dfracciones\sumadfracciones.cpp
+1636065145 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\04_suma_dfracciones\sumadfracciones.cpp
 	<cmath>
 	<class/Fraccion.h>
 	<class/Suma_DFracciones.h>
 
-1635456052 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\suma_dfracciones.h
-	<cmath>
-	<class/Fraccion.h>
+1635453100 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\suma_dfracciones.h
+
+1636066011 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\05_sumaalg_dfracciones\testsumaalgdfracciones.cpp
+	<iostream>
+	<vector>
+	<class/EquivDFraciones.h>
 	<class/Suma_DFracciones.h>
+	<class/Fraccion.h>
+	<common.h>
+
+1635281498 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\common.h
 
