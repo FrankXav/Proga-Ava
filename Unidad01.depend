@@ -1268,3 +1268,9 @@
 	"begin_code.h"
 	"close_code.h"
 
+1636422118 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\dispgiffiles.cpp
+	<iostream>
+	<stdio.h>
+	<SDL_image.h>
+	<vector>
+

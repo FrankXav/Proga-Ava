@@ -88,14 +88,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="SDL2_image-2.0.5/include" />
 			<Add directory="incluir" />
-			<Add directory="C:/Users/LMC/2020/To_Install_SDL_Image_lib/SDL2_image-2.0.5/x86_64-w64-mingw32/include" />
-			<Add directory="C:/Users/LMC/2020/To_Install_SDL_2dot0_for_mingw_32_64/SDL2-2.0.12/x86_64-w64-mingw32/include/SDL2" />
+			<Add directory="SDL2-2.0.16/include" />
 		</Compiler>
 		<Linker>
 			<Add option="-lmingw32  -lSDL2 -lSDL2_Image" />
-			<Add directory="C:/Users/LMC/2020/To_Install_SDL_2dot0_for_mingw_32_64/SDL2-2.0.12/i686-w64-mingw32/bin" />
-			<Add directory="SDL2_image-2.0.5/i686-w64-mingw32/bin" />
+			<Add directory="SDL2_image-2.0.5/lib/x64" />
+			<Add directory="SDL2-2.0.16/lib/x64" />
 		</Linker>
 		<Unit filename="01_constructores/Fraccion.cpp" />
 		<Unit filename="01_constructores/TestFraccion.cpp">
