@@ -118,3 +118,32 @@ char Fraccion::signo()
  return '-';
 }
 #endif
+bool Fraccion::operator>(Fraccion rhs){
+    /*float dec1, dec2;
+    dec1=rhs.n/rhs.d;
+    dec2=rhs.N/rhs.D;
+    if (dec1>dec2){
+        return True;
+    }
+    else {
+        return False;
+    }*/
+    N = abs(n);rhs.N = abs(rhs.n);
+    D = abs(d);rhs.D = abs(rhs.d);
+    return (((float)n/d) > ((float)rhs.n/rhs.d));
+
+}
+bool Fraccion::operator==(Fraccion rhs){
+    /*float dec1, dec2;
+    dec1=rhs.n/rhs.d;
+    dec2=rhs.N/rhs.D;
+    if (dec1==dec2){
+        return True;
+    }
+    else {
+        return False;
+    }*/
+    N = abs(n);rhs.N = abs(rhs.n);
+    D = abs(d);rhs.D = abs(rhs.d);
+    return (((float)n/d) == ((float)rhs.n/rhs.d));
+}
