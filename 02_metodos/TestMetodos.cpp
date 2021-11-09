@@ -19,11 +19,8 @@ int create_gif(std::string gifFileName,
 #include <class/Fraccion.h>
 #endif
 using namespace std;
-#if 1
 unsigned int MCD(int NUM,int DEN)
 __attribute__((weak));
-#endif //
-
 /**Stub*/
 unsigned int MCD(int NUM,int DEN){
  return 1;
@@ -50,19 +47,14 @@ no match for 'operator<<' (operand types are 'std::ostream'
  cout << G << endl;
 #if 1 //2021.10.06
  std::string imgFileName="file01.gif";
- create_gif(imgFileName,F.to_string());
+ //std::cout<<"G.to_string(): "<<G.to_string()<<"\n";
+ create_gif(imgFileName,G.to_string());
+ //std::cout<<"G.to_string(): "<<G.to_string()<<"\n";
+ #if 1
  gifFile.push_back(imgFileName);
  display_gui(gifFile,40,30);
+ #endif
 #endif
  return 0;
 }
 
-
-//C:\Users\LMC\2021\REPOS_2021\2022_1_PROG_AVAN___2MV10\202109\Unidad01\02_metodos\TestMetodos.cpp|11|
-//error: no match for 'operator<<' (
-//operand types are 'std::ostream' {aka 'std::basic_ostream<char>'}
-//and 'Fraccion')|
-
-//incluir\Fraccion.h|22|error:
-//'std::ostream& Fraccion::operator<<(std::ostream&, Fraccion)'
-//must have exactly one argument|

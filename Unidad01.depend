@@ -37,16 +37,18 @@
 	<iostream>
 	<cmath>
 
-1634250698 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\testmetodos.cpp
+1636420796 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\testmetodos.cpp
 	<iostream>
 	<vector>
 	<Fraccion.h>
 	<class/Fraccion.h>
 
-1634852037 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
+1636421286 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
 	<iostream>
 
-1631653576 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion.h
+1636421150 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\fraccion.h
+	<iostream>
+	<cmath>
 
 1633638312 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\usemimetex.cpp
 	<iostream>
@@ -479,13 +481,13 @@
 	<cmath>
 	<class/Fraccion.h>
 
-1634701418 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\testequivdfracciones.cpp
+1634697818 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\testequivdfracciones.cpp
 	<iostream>
 	<vector>
 	<class/Fraccion.h>
 	<class/EquivDFraciones.h>
 
-1634697818 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\equivdfraciones.h
+1636421272 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\equivdfraciones.h
 	<iostream>
 	<vector>
 
@@ -494,14 +496,15 @@
 	<class/Fraccion.h>
 	<class/EquivDFraciones.h>
 
-1636065145 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\04_suma_dfracciones\sumadfracciones.cpp
+1636421252 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\04_suma_dfracciones\sumadfracciones.cpp
 	<cmath>
 	<class/Fraccion.h>
 	<class/Suma_DFracciones.h>
 
-1635453100 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\suma_dfracciones.h
+1636421298 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\suma_dfracciones.h
+	<iostream>
 
-1636066011 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\05_sumaalg_dfracciones\testsumaalgdfracciones.cpp
+1636421338 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\05_sumaalg_dfracciones\testsumaalgdfracciones.cpp
 	<iostream>
 	<vector>
 	<class/EquivDFraciones.h>
@@ -509,5 +512,25 @@
 	<class/Fraccion.h>
 	<common.h>
 
-1635281498 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\common.h
+1636421131 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\common.h
+	<iostream>
+	<vector>
+
+1636421613 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\04_suma_dfracciones\testsumadfracciones.cpp
+	<iostream>
+	<vector>
+	<class/EquivDFraciones.h>
+	<class/Suma_DFracciones.h>
+	<class/Fraccion.h>
+	<common.h>
+
+1636420766 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\mcd.cpp
+	<iostream>
+	<cmath>
+	<Fraccion.h>
+	<class/Fraccion.h>
+
+1636420690 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constrcutores\fraccion.cpp
+	<Fraccion.h>
+	<class/Fraccion.h>
 

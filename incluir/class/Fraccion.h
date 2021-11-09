@@ -13,8 +13,6 @@
     del operador << deber\'a especificarse como funci\'on
     amiga (friend) de la clase Fraccion.
 */
-
-
   #if 0
 class Fraccion; /** Declaraci\'on anticipada de clase */
 std::ostream& operator<<(std::ostream&,Fraccion rhs);
@@ -25,6 +23,7 @@ class Fraccion {
 friend std::ostream& operator<<(std::ostream&,Fraccion rhs);
 friend class EquivDFracciones;
 friend class SumaDFracciones;
+friend class ComparacionDFracciones;
   #endif
  int n;                   /** numerador*/
  int d;                   /** denominador*/
@@ -32,18 +31,28 @@ friend class SumaDFracciones;
  unsigned int D;          /** D=abs(d) */
 public:
  Fraccion(int num,int den);
+/**
+ 1: Se conserva el constructor por defecto para no romper
+    el objetivo 01_constructores.
+ 0: Se rompe el objetivo 01_constructores.
+*/
  #if 1
  Fraccion();
  #endif
+ Fraccion(const Fraccion& rhs);
  /** Operacion de la clase Fraccion */
  Fraccion operator+(Fraccion rhs);
 
  void simplificar();
  unsigned int MCD(int NUM,int DEN);
 #if 1 //2021.10.05
- std::string to_string();
+ std::string to_string();/** Codifica una cadena en \LaTeX */
 #endif
-char signo();
+#if 1 //2021.10.14
+ char signo();/** '+' Si la Fracci\'on es >= 0.
+                  '-' Si la Fracci\'on es < 0.
+               */
+#endif
 };/* end class Fraccion */
 
 #endif // FRACCION_H_INCLUDED

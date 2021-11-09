@@ -11,7 +11,7 @@ int main(){
  std::string imgFileName;
  imgFileName="file00.gif";
  create_gif(imgFileName,
-            "\\mbox{Suma Algebraica de Fracciones}");
+            "\\mbox{Suma Algebra$^\\prime$ica de Fracciones}");
  gifFile.push_back(imgFileName);
  Fraccion *Fop1 = new Fraccion(1,2);
  Fraccion *Fop2 = new Fraccion(1,4);
@@ -24,10 +24,10 @@ int main(){
  gifFile.push_back(imgFileName);
 
  Fraccion f1(-3,5),f2(2,7);
- Fraccion f3 =f1+f2;
+ Fraccion f3 = f1 + f2;
  SumaDFracciones f1plusf2(&f1,&f2,&f3);
- imgFileName="file02.gif";
- create_gif(imgFileName,S.to_string());
+ imgFileName="file03.gif";
+ create_gif(imgFileName,f1plusf2.to_string());
  gifFile.push_back(imgFileName);
 
  Fraccion *Gop1 = new Fraccion(12,8);
