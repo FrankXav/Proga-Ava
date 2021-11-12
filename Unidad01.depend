@@ -1274,7 +1274,7 @@
 	<SDL_image.h>
 	<vector>
 
-1636500414 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\fraccion.cpp
+1636501214 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\fraccion.cpp
 	<Fraccion.h>
 	<class/Fraccion.h>
 
@@ -1282,7 +1282,7 @@
 	<iostream>
 	<cmath>
 
-1636500391 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
+1636501215 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
 	<iostream>
 
 1636470169 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\testfraccion.cpp
@@ -1332,18 +1332,18 @@
 	<class/Fraccion.h>
 	<common.h>
 
-1636471793 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\common.h
+1636671811 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\common.h
 	<iostream>
 	<vector>
 
-1636471792 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\06_comparaciondfracciones\comparaciondfracciones.cpp
+1636669615 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\06_comparaciondfracciones\comparaciondfracciones.cpp
 	<cmath>
 	<class/Fraccion.h>
 	<class/ComparacionDFracciones.h>
 
 1636500782 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\comparaciondfracciones.h
 
-1636471799 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\06_comparaciondfracciones\testcomparaciondfracciones.cpp
+1636668680 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\06_comparaciondfracciones\testcomparaciondfracciones.cpp
 	<iostream>
 	<vector>
 	<class/EquivDFraciones.h>
@@ -1365,6 +1365,19 @@
 	<vector>
 	<class/EquivDFraciones.h>
 	<class/SumaDFracciones.h>
+	<class/Fraccion.h>
+	<common.h>
+
+1636670265 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\00_comon\common.cpp
+	<stdio.h>
+	<common.h>
+
+1636670915 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\07_util\test_util.cpp
+	<iostream>
+	<vector>
+	<class/EquivDFraciones.h>
+	<class/SumaDFracciones.h>
+	<class/ComparacionDFracciones.h>
 	<class/Fraccion.h>
 	<common.h>
 
