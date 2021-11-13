@@ -2,17 +2,26 @@ import subprocess as subp
 
 #subp.run(["ls"])
 
-resp1 = "si"#input("Agrego algun archivo nuevo?: (si o no)  ")
+alternativa = input("Desea subir cambios a git (sgit) o actualizar repositorio(bgit): ")
 
-comentario = "Agrego script python"#input("Comentario del nuevo commit: ")
+if (alternativa == "sgit"):
 
-nomrama = "frankrama"#input("Nombre de la rama actual: ")
+	resp1 =  input("Agrego algun archivo nuevo?: (si o no)  ")
 
-if (resp1 == "si"):
-	subp.run(["git", "add", "."])
+	comentario = input("Comentario del nuevo commit: ")
 
-subp.run(["git", "commit", f'-am {comentario}'])  #f'commit -am "{comentario}"'
+	nomrama = input("Nombre de la rama actual: ")
 
-subp.run(["git",'push','origin',nomrama])
+	if (resp1 == "si"):
+		subp.run(["git", "add", "."])
 
-print("Cambios Actualizados")
+	subp.run(["git", "commit", f'-am {comentario}'])  #f'commit -am "{comentario}"'
+
+	subp.run(["git",'push','origin',nomrama])
+
+	print("Cambios Actualizados")
+else:
+
+	nomrama = "Nombre de la rama con la que desea actualizar: "
+
+	subp.run(["git", "pull", "origin", nomrama])
