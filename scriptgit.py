@@ -28,4 +28,4 @@ else:
 
 	nomrama = "Nombre de la rama con la que desea actualizar: "
 
-	subp.run(["git", "pull", "origin", nomrama])
+	subp.run(["git", "merge", "origin", nomrama])
