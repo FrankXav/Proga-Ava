@@ -2,6 +2,10 @@ import subprocess as subp
 
 #subp.run(["ls"])
 
+
+# git checkout "nombre rama" para cambiar de rama 
+
+
 alternativa = input("Desea subir cambios a git (sgit) o actualizar repositorio(bgit): ")
 
 if (alternativa == "sgit"):
