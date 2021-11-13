@@ -13,6 +13,6 @@ if (resp1 == "si"):
 
 subp.run(["git", "commit", f'-am {comentario}'])  #f'commit -am "{comentario}"'
 
-#subp.run(["git",f'push origin {nomrama}'])
+subp.run(["git","push",f'origin {nomrama}'])
 
 print("Cambios Actualizados")
