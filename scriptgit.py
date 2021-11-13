@@ -26,6 +26,6 @@ if (alternativa == "sgit"):
 	print("Cambios Actualizados")
 else:
 
-	nomrama = "Nombre de la rama con la que desea actualizar: "
+	nomrama = input("Nombre de la rama con la que desea actualizar: ")
 
 	subp.run(["git", "merge", "origin", nomrama])
