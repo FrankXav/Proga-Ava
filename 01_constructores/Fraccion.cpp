@@ -15,6 +15,7 @@
 #include <class/Fraccion.h>
 #endif
 
+
 unsigned int MCD(int NUM,int DEN);
 
 Fraccion::Fraccion(int num,int den)

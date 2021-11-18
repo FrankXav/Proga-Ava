@@ -1282,21 +1282,22 @@
 	<iostream>
 	<cmath>
 
-1636501215 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
+1637203251 c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\incluir\class\fraccion.h
 	<iostream>
+	<cmath>
 
-1636470169 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\testfraccion.cpp
+1636471792 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\testfraccion.cpp
 	<iostream>
 	<Fraccion.h>
 	<class/Fraccion.h>
 
-1636471799 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\mcd.cpp
+1636441334 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\mcd.cpp
 	<iostream>
 	<cmath>
 	<Fraccion.h>
 	<class/Fraccion.h>
 
-1636470169 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\testmetodos.cpp
+1636441334 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\02_metodos\testmetodos.cpp
 	<iostream>
 	<vector>
 	<Fraccion.h>

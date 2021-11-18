@@ -1,6 +1,7 @@
 #ifndef FRACCION_H_INCLUDED
 #define FRACCION_H_INCLUDED
 #include <iostream>
+#include <cmath>
 /**
  1: La clase Fraccion tiene los atributos n, d, N y D en
     una secci\'on p\'ublica. La sobrecarga del operador
