@@ -3,6 +3,7 @@
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="Unidad01" />
+		<Option makefile="makefile" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -26,7 +27,6 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
-					<Add directory="C:/Users/LMC/2020/To_Install_SDL_2dot0_for_mingw_32_64/SDL2-2.0.12/i686-w64-mingw32/include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -120,7 +120,6 @@
 			<Option target="03_class_Fraccion" />
 			<Option target="04_Suma_DFraciones" />
 			<Option target="05_SumaAlg_DFracciones" />
-			<Option target="06_ComparacionDFracciones" />
 			<Option target="07_Util" />
 		</Unit>
 		<Unit filename="03_class_Fraccion/TestEquivDFracciones.cpp">
@@ -145,7 +144,6 @@
 		<Unit filename="04_Suma_DFraciones/SumaDFracciones.cpp">
 			<Option target="04_Suma_DFraciones" />
 			<Option target="05_SumaAlg_DFracciones" />
-			<Option target="06_ComparacionDFracciones" />
 			<Option target="07_Util" />
 		</Unit>
 		<Unit filename="04_Suma_DFraciones/TestSumaDFracciones.cpp">
