@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <SDL_image.h>
 #include <vector>
+#include <cassert>
 //std::vector<std::string> gifFile;
 SDL_Window* g_pWindow;
 SDL_Renderer* g_pRenderer;
@@ -86,12 +87,19 @@ void disp_gif_files(SDL_Window* g_pWindow,SDL_Renderer* g_pRenderer,
 
 void display_gui(std::vector<std::string>& gifFile,int x0,int y0)
 {
+  int variable;
+  assert(1==1);
   printf("Initial test (SDL2_image)...\n");
+
+  //SDL_Init(SDL_INIT_EVERYTHING);
+  //assert(1==0);
   // Inicializamos SDL
-  if (SDL_Init(SDL_INIT_EVERYTHING) < 0) {
+  if ((variable=SDL_Init(SDL_INIT_EVERYTHING)) < 0) {
     printf("Could not load SDL: %s\n",SDL_GetError());
+    printf("%x\n",variable);
     exit(1);
   }
+
   g_pWindow=SDL_CreateWindow("Chapter 1, Shaun Mitchel SDL Game Development",
                              SDL_WINDOWPOS_CENTERED,SDL_WINDOWPOS_CENTERED,
                              640,480,SDL_WINDOW_SHOWN);
@@ -105,5 +113,6 @@ void display_gui(std::vector<std::string>& gifFile,int x0,int y0)
   SDL_DestroyRenderer(g_pRenderer);
   SDL_DestroyWindow(g_pWindow);
   //Clean up SDL
+  printf("Si sirve");
   SDL_Quit();
 }/*end display_gui()*/

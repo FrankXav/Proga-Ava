@@ -1268,13 +1268,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1636471792 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\dispgiffiles.cpp
+1637276272 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\03_class_fraccion\dispgiffiles.cpp
 	<iostream>
 	<stdio.h>
 	<SDL_image.h>
 	<vector>
+	<cassert>
 
-1636501214 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\fraccion.cpp
+1637203246 source:c:\users\paco2\onedrive - instituto politecnico nacional\documents\upiita\3semestre\programacion avanzada\proyecto1\01_constructores\fraccion.cpp
 	<Fraccion.h>
 	<class/Fraccion.h>
 
